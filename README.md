@@ -1,2 +1,2 @@
 # Basic-python
-Compilation of basic python codes with practice questions
+Compilation of basic python codes
